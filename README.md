@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deine-augen-leuchten/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Deine Augen leuchten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-augen-leuchten/) |
+| **Get License** | [Secure Licensing Rights for Deine Augen leuchten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-augen-leuchten/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Deine Augen leuchten wie Sterne bei Mitternacht
+> Hab' heute an nichts anderes als nur an dich gedacht
+> Das Verdeck ist jetzt down, ja, wir fahren weit weg von hier
+> Die ganze Stadt schläft, aber ich bleibe wach mit dir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
